@@ -1,0 +1,54 @@
+print("""
+INFORME DE ANÁLISIS DE INVERSIONES
+
+Fecha: 29 de junio de 2023
+
+INTRODUCCIÓN
+El presente informe tiene como objetivo proporcionar un análisis detallado de las inversiones en acciones del Merval y el dólar MEP durante el período comprendido entre el 1 de enero de 2020 y el 25 de junio de 2023. A través de este análisis, se busca identificar la mejor opción de inversión y evaluar el rendimiento acumulado de cada una.
+
+METODOLOGÍA
+Para llevar a cabo este análisis, se utilizaron dos conjuntos de datos: el historial de precios de las acciones del Merval y el historial de precios del dólar MEP. Se realizó un cálculo de correlación entre cada acción del Merval y el precio del dólar MEP para determinar su relación.
+
+RESULTADOS
+A continuación, se presentan los resultados obtenidos:
+
+Correlación entre las acciones del Merval y el precio del dólar MEP:
+- ALUA.BA Close: 0.9657
+- BBAR.BA Close: 1.1966e-16
+- BMA.BA Close: 0.9099
+- BYMA.BA Close: 0.9840
+- CEPU.BA Close: 0.9681
+- COME.BA Close: 0.9865
+- CRES.BA Close: 0.9627
+- CVH.BA Close: 0.9266
+- EDN.BA Close: 0.9555
+- GGAL.BA Close: 0.9200
+- LOMA.BA Close: 0.9708
+- MIRG.BA Close: 0.9348
+- PAMP.BA Close: 0.9785
+- SUPV.BA Close: 0.9285
+- TECO2.BA Close: 0.8987
+- TGNO4.BA Close: 0.9173
+- TGSU2.BA Close: 0.9522
+- TRAN.BA Close: 0.9370
+- TXAR.BA Close: 0.7208
+- VALO.BA Close: 0.9590
+- YPFD.BA Close: 0.9214
+
+ANÁLISIS
+Basado en los resultados de la correlación, se observa que la mayoría de las acciones del Merval presentan una correlación positiva con el precio del dólar MEP. Esto indica una relación directa entre el comportamiento de las acciones y el valor del dólar MEP.
+
+La acción con la correlación más alta es COME.BA Close, con un valor de 0.9865. Le siguen LOMA.BA Close (0.9708), PAMP.BA Close (0.9785) y CEPU.BA Close (0.9681). Estas acciones muestran una fuerte dependencia del precio del dólar MEP y podrían considerarse como opciones de inversión interesantes.
+
+Por otro lado, se observa que BBAR.BA Close tiene una correlación cercana a cero (1.1966e-16), lo que indica una falta de relación con el precio del dólar MEP. Esta acción podría no ser afectada significativamente por las fluctuaciones del dólar MEP y requeriría un análisis más detallado para evaluar su potencial como inversión.
+
+CONCLUSIÓN
+Luego de analizar los resultados, se concluye que las acciones del Merval presentan en su mayoría una correlación positiva con el precio del dólar MEP. Entre las acciones con mayor correlación se encuentran COME.BA Close, LOMA.BA Close, PAMP.BA Close y CEPU.BA Close.
+
+En términos de mejor inversión, se recomienda considerar las acciones con correlaciones más altas, ya que están más influenciadas por el comportamiento del dólar MEP. No obstante, se recomienda llevar a cabo un análisis adicional que tenga en cuenta otros factores antes de tomar decisiones de inversión.
+
+El rendimiento acumulado de las acciones del Merval durante el período analizado fue del 996.01%. Esto indica un potencial de crecimiento significativo en comparación con el capital inicial.
+
+
+
+""")
